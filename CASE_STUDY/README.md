@@ -21,20 +21,17 @@
 
 # Coffee Vending Machine
 
-
+![coffeevendingmachine](https://user-images.githubusercontent.com/46933088/154833325-6e724173-217d-4e74-bec2-87883c51f771.png)
 
 ## High level Requirements
 * H01 
 * H02 
 * H03 
 * H04 
-* H05 
-* H06
-* H07 
+
 
 ## Low level Requirements
 * L01 
 * L02 
 * L03
 * L04 
-* L05 
