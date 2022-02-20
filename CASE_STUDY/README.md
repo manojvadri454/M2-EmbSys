@@ -24,14 +24,12 @@
 ![coffeevendingmachine](https://user-images.githubusercontent.com/46933088/154833325-6e724173-217d-4e74-bec2-87883c51f771.png)
 
 ## High level Requirements
-* H01 
-* H02 
-* H03 
-* H04 
 
+* H01 User should Select the type of coffee like Filter coffee or Normal Coffee.
+* H03 User should make sure Water is filled before starting.
+* H04 User should make sure Coffee powder and Sugar are placed in Particular Space given. 
+* H02 USer should make sure Power is turned ON.
 
 ## Low level Requirements
-* L01 
-* L02 
-* L03
-* L04 
+* L01 User should Place cup below the nob.
+* L02 Once Cup is filled it should Notifiy using Buzzer.
