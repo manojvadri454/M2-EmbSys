@@ -35,18 +35,21 @@ Microcontroller is used to control the process of washimg machine cycle to drive
 
 # 2. Coffee Vending Machine
 
-![coffeemachine](https://user-images.githubusercontent.com/46933088/154834811-cafde815-77ff-455a-8bbe-d6411bc89f2d.png)
+![coffee machine](https://user-images.githubusercontent.com/46933088/154840533-2617f2ab-a552-4546-b522-d07126292032.png)
 
 ## High level Requirements
 
 * H01 User should Select the type of coffee like Filter coffee or Normal Coffee.
-* H03 User should make sure Water is filled before starting.
-* H04 User should make sure Coffee powder and Sugar are placed in Particular Space given. 
-* H02 USer should make sure Power is turned ON.
+* H02 User should make sure Water is filled before starting.
+* H03 User should make sure Coffee powder and Sugar are placed in Particular Space given. 
+* H04 User should make sure Power is turned ON.
+* H05 User should insert the correct number of coins.
 
 ## Low level Requirements
 * L01 User should Place cup below the nob.
 * L02 Once Cup is filled it should Notifiy using Buzzer.
+* L03 Should check number of coins instered are correct.
+* L04 If Extra coins inserted return it back.
 
 ## Components
 
