@@ -1,7 +1,7 @@
 # CASE STUDY
 # Washing Machine 
 
-
+![Washing machine ](https://user-images.githubusercontent.com/46933088/154832531-ab398332-a358-49de-b93e-37e37c8ce79b.png)
 
 ## High level Requirements
 * H01 User should select the mode i.e type of washing for cotton or silk etc.
@@ -20,6 +20,7 @@
 * L05 Open the door after the process is completed.
 
 # Coffee Vending Machine
+
 
 
 ## High level Requirements
