@@ -23,6 +23,7 @@ The main goal of this project is to reduce water waste and provide a healthy and
 # Reqirements
 ## High Level Requirement
 HLR01 - IR sensor must be able to give high or low input to Ardunio
+
 HLR02 - Mosfet must turn on and turn off based on the sensor output.
 
 ## Low Level Requirement
