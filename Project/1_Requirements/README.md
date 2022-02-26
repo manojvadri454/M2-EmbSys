@@ -5,7 +5,9 @@ Water is one of the most important and irreplaceable natural resources on the pl
 
 The main goal of this project is to reduce water waste and provide a healthy and independent living environment for the elderly handicapped, and patients by incorporating tap automation into the smart homes.
 
-# Functional Block diagram
+# Block diagram
+![Mainblock](https://user-images.githubusercontent.com/46933088/155833983-8e7d80d9-b2b9-45b7-a357-0de9c02a0f84.png)
+
 ![functional block diagram](https://user-images.githubusercontent.com/46933088/155832234-d39ea7ad-8212-47aa-992c-7abb8e4095ed.png)
 
 # Components
