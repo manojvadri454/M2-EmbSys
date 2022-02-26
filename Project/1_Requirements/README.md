@@ -5,3 +5,22 @@ Water is one of the most important and irreplaceable natural resources on the pl
 
 The main goal of this project is to reduce water waste and provide a healthy and independent living environment for the elderly handicapped, and patients by incorporating tap automation into the smart homes.
 
+# Functional Block diagram
+![functional block diagram](https://user-images.githubusercontent.com/46933088/155832234-d39ea7ad-8212-47aa-992c-7abb8e4095ed.png)
+
+# Components
+
+1. Arduino Nano  - Arduino Nano is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
+
+2. IR Sensor - An infrared (IR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment.
+
+3. Solenoid Valve - Solenoid valve is a electro-mechanical device.Simply a valve only open or close only when the required is voltage is available.
+
+4. LED - (light-emitting diode) a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting.
+
+5. MOSFET - A depletion-type MOSFET is normally on when the gate-source voltage is 0V, and thus current flows through the drain-source channel until a positive voltage is applied at the gate.
+
+# Reqirements
+## High Level Requirement
+
+## Low Level Requirement
