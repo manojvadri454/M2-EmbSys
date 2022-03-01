@@ -1,32 +1,26 @@
-# Smart Water Tap
+# Smart Dust Bin
 
 ## Abstract 
-Water is one of the most important and irreplaceable natural resources on the planet. It must be handled with care and efficiency in order to be preserved forfuture generations. Water is one of the most vital elements for life on Earth. Water circulates through the soil in the same way it circulates through the body, carrying and dissolving nutrients and organic matter and replenishing them. There are a couple of electronic flow measurement devices on the market that are supported by hardware sensors, but no software applications have been produced. Water management can be a sensitive problem that needs to be treated with extreme caution. This project is concerned with the automated and effective control of water. The aim of this model is to regulate the flow of water according to predetermined parameters.This project's primary goal is to create a flow control system.
+Smart Dust Bin as its names to depict. It works likewise smart things. It is a decent gadget to make your home clean. due to practically all offspring of home consistently make it grimy and spread trash to a great extent by paper, rappers and numerous different things. since the smart dustbin is additionally intriguing and kids make fun with it so they help to keep clean your home. they generally will be utilized to through all trash and waste into this smart dustbin.smart dustbin opens and closes it’s top when somebody is before it. when you come before it. it’s top get open. also, when you toss the loss into it then it closes independent from anyone else. so how it’s work what the standard behind it and what the segments and sensors do it conceivable. 
 
-The main goal of this project is to reduce water waste and provide a healthy and independent living environment for the elderly handicapped, and patients by incorporating tap automation into the smart homes.
 
 # Block diagram
-![Mainblock](https://user-images.githubusercontent.com/46933088/155833983-8e7d80d9-b2b9-45b7-a357-0de9c02a0f84.png)
-
-![functional block diagram](https://user-images.githubusercontent.com/46933088/155832234-d39ea7ad-8212-47aa-992c-7abb8e4095ed.png)
+![SMART_DUSTBIN](https://user-images.githubusercontent.com/46933088/156158024-1b883265-8c76-4708-a638-2e04c9678ff5.jpg)
 
 # Components
 
-1. Arduino Nano  - Arduino Nano is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
+1. Arduino UNO  - Arduino UNO is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
 
-2. IR Sensor - An infrared (IR) sensor is an electronic device that measures and detects infrared radiation in its surrounding environment.
+2. Ultrasonic Sensor - An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
 
-3. Solenoid Valve - Solenoid valve is a electro-mechanical device.Simply a valve only open or close only when the required is voltage is available.
+3. IR sensor - An infrared sensor (IR sensor) is a radiation-sensitive optoelectronic component with a spectral sensitivity in the infrared wavelength.IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps or in alarm systems to detect unwelcome guests.
 
-4. LED - (light-emitting diode) a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting.
+4. Servo motor - A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
 
-5. MOSFET - A depletion-type MOSFET is normally on when the gate-source voltage is 0V, and thus current flows through the drain-source channel until a positive voltage is applied at the gate.
+5. LED - (light-emitting diode) a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting.
+
 
 # Reqirements
 ## High Level Requirement
-HLR01 - IR sensor must be able to give high or low input to Ardunio
-
-HLR02 - Mosfet must turn on and turn off based on the sensor output.
-
+ 
 ## Low Level Requirement
-LLR01 - When Mosfet is on Valve turns on for a certain interval of time.
