@@ -5,7 +5,7 @@ Smart Dust Bin as its names to depict. It works likewise smart things. It is a d
 
 
 # Block diagram
-![SMART_DUSTBIN](https://user-images.githubusercontent.com/46933088/156158024-1b883265-8c76-4708-a638-2e04c9678ff5.jpg)
+![block](https://user-images.githubusercontent.com/46933088/156998436-79fccf2a-2481-451b-ab33-a0d1edf55125.jpg)
 
 # Components
 
@@ -19,8 +19,42 @@ Smart Dust Bin as its names to depict. It works likewise smart things. It is a d
 
 5. LED - (light-emitting diode) a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting.
 
+6. Potentiometer - A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
+
+# SWOT Analysis
+![swot](https://user-images.githubusercontent.com/46933088/157000822-dfb7a744-7063-4b98-a572-23cb5a89e4bf.jpg)
+
+# 4W's and 1'H
+## Who
+### In house,Public places like movie theaters etc.
+
+## What
+### To open the top of the dustbin and singnal when the dustbin is full.
+
+## When
+### When user carry the waste in both hands it will more helpful.
+
+## Where
+### To Keep surrounding clean and hygiene.
+
+## How
+### By creating a system/model which helps the user.The dustbin opens automatically when it receives the signal and closes its hatch.It also tells the user by wheather the bin is full or not using Led.
 
 # Reqirements
 ## High Level Requirement
+
+| ID | Description | Status | 
+| ----- | ----- | ------- |
+| HLR01 | The Dustbin should be empty before use| IMPLEMENTED | 
+| HLR02 | The Ultrasonic sensor should be able to sense the person moves towards Dustbin| IMPLEMENTED |
+| HLR03 | The IR sensor should be able to detect when Dustbin is full| IMPLEMENTED |
+| HLR04 | Servo motor should work according to the inputs given by Ultrasonic sensor| IMPLEMENTED |
  
 ## Low Level Requirement
+
+| ID | Description | Status | 
+| ----- | ----- | ------- |
+| LLR01 |When the ultrasonic detects user approaching the Dustbin servomotor should rotate 90 degrees to open the top of Dustbin | IMPLEMENTED | 
+| LLR02 |When the ultrasonic detects user is moving away from the Dustbin servomotor should rotate 90 degrees(opposite direction) to close the top of Dustbin| IMPLEMENTED |
+| LLR03 | IR sensor detects Dustbin is full by turning ON LED | IMPLEMENTED |
+| LLR04 | When the Dustbin is empty the LED should turn OFF | IMPLEMENTED |
