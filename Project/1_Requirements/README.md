@@ -43,18 +43,18 @@ Smart Dust Bin as its names to depict. It works likewise smart things. It is a d
 # Reqirements
 ## High Level Requirement
 
-| ID | Description | Status | 
-| ----- | ----- | ------- |
-| HLR01 | The Dustbin should be empty before use| IMPLEMENTED | 
-| HLR02 | The Ultrasonic sensor should be able to sense the person moves towards Dustbin| IMPLEMENTED |
-| HLR03 | The IR sensor should be able to detect when Dustbin is full| IMPLEMENTED |
-| HLR04 | Servo motor should work according to the inputs given by Ultrasonic sensor| IMPLEMENTED |
+| ID | Description |  
+| ----- | ----- | 
+| HLR01 | The Dustbin should be empty before use|
+| HLR02 | The Ultrasonic sensor should be able to sense the person moves towards Dustbin|
+| HLR03 | The IR sensor should be able to detect when Dustbin is full| 
+| HLR04 | Servo motor should work according to the inputs given by Ultrasonic sensor| 
  
 ## Low Level Requirement
 
-| ID | Description | Status | 
-| ----- | ----- | ------- |
-| LLR01 |When the ultrasonic detects user approaching the Dustbin servomotor should rotate 90 degrees to open the top of Dustbin | IMPLEMENTED | 
-| LLR02 |When the ultrasonic detects user is moving away from the Dustbin servomotor should rotate 90 degrees(opposite direction) to close the top of Dustbin| IMPLEMENTED |
-| LLR03 | IR sensor detects Dustbin is full by turning ON LED | IMPLEMENTED |
-| LLR04 | When the Dustbin is empty the LED should turn OFF | IMPLEMENTED |
+| ID | Description |  
+| ----- | ----- |
+| LLR01 |When the ultrasonic detects user approaching the Dustbin servomotor should rotate 90 degrees to open the top of Dustbin |
+| LLR02 |When the ultrasonic detects user is moving away from the Dustbin servomotor should rotate 90 degrees(opposite direction) to close the top of Dustbin| 
+| LLR03 | IR sensor detects Dustbin is full by turning ON LED |
+| LLR04 | When the Dustbin is empty the LED should turn OFF |
