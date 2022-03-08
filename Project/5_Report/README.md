@@ -77,3 +77,18 @@ Dustbin is the storage container used for disposing waste by each and every pers
 ## High level
 
 ![highlevel](https://user-images.githubusercontent.com/46933088/157165284-d6edbb6e-bf5d-44f4-8004-b8c68dc846ef.jpg)
+
+## Simulation
+
+![smartBinDUSt](https://user-images.githubusercontent.com/46933088/157175525-35768d3d-14b8-4af5-b7eb-a5dfcbdaea37.jpg)
+
+## Application
+
+1) To collect dustbins placed at public places in city.
+
+2) Automatic open-close lid for ease of use 
+
+3) There is no contact touch between dustbin and Person so, prevention from germs and diseases. 
+
+## Reference
+http://www.ijstr.org/final-print/feb2020/Iot-Based-Smart-Dustbin.pdf
