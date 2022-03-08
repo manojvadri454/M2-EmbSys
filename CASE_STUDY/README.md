@@ -65,5 +65,5 @@ Microcontroller is used to control the process of washimg machine cycle to drive
 ## IR sensor 
 A proximity sensor is used to detect any object without any contact(object in this case is Cup).
 
-## EPROM 
-An EPROM or erasable programmable read only memory is type of memory chip that retains its data when its power supply is switched off. Eachstorage location of EPROM consists of single field effect transistor. Each field effect transistor consists of channel in the semiconductor body of device. To retrieve data from the EPROM,the address represented by the values at the address pins of the EPROM is decoded and used to connect one word of the storage to the output buffer amplifier. The EPROM is used to store the data regarding the consumption of coffee by each employ.
+## EEPROM 
+An EEPROM or erasable programmable read only memory is type of memory chip that retains its data when its power supply is switched off. Eachstorage location of EEPROM consists of single field effect transistor. Each field effect transistor consists of channel in the semiconductor body of device. To retrieve data from the EPROM,the address represented by the values at the address pins of the EPROM is decoded and used to connect one word of the storage to the output buffer amplifier. The EPROM is used to store the data regarding the consumption of coffee by each employ.

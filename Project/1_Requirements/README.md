@@ -1,7 +1,7 @@
 # Smart Dust Bin
 
 ## Abstract 
-Smart Dust Bin as its names to depict. It works likewise smart things. It is a decent gadget to make your home clean. due to practically all offspring of home consistently make it grimy and spread trash to a great extent by paper, rappers and numerous different things. since the smart dustbin is additionally intriguing and kids make fun with it so they help to keep clean your home. they generally will be utilized to through all trash and waste into this smart dustbin.smart dustbin opens and closes it’s top when somebody is before it. when you come before it. it’s top get open. also, when you toss the loss into it then it closes independent from anyone else. so how it’s work what the standard behind it and what the segments and sensors do it conceivable. 
+Smart Dust Bin as its names to depict. It works likewise smart things. It is a decent gadget to make your home clean. due to practically all offspring of home consistently make it grimy and spread trash to a great extent by paper, rappers and numerous different things. since the smart dustbin is additionally intriguing and kids make fun with it so they help to keep clean your home. they generally will be utilized to through all trash and waste into this smart dustbin.smart dustbin opens and closes it’s top when somebody is before it. when you come before it. it’s top get open. also, when you toss the loss into it then it closes independent from anyone else. When the bin is full it give indication by led.
 
 
 # Block diagram
