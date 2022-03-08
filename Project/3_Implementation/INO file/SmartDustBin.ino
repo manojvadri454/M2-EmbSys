@@ -1,4 +1,3 @@
-#include <Arduino.h>
 
 #include <Servo.h>
 int ledPin = 12;
@@ -7,20 +6,15 @@ int ledValue = 0;
 
 Servo servoMain; //  Servo motor
 
-int trigpin = 10;// 
+int trigpin = 10; //ultrasonic sensor
 
-int echopin = 11;
+int echopin = 11;//ultrasonic sensor
 
 int distance;
 
 float duration;
 
 float cm;
-
-
-void setup();
-
-void loop();
 
 void setup()
 
@@ -77,4 +71,3 @@ delay(50);
 }
 
 }
-
